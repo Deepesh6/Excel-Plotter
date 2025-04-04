@@ -1,1 +1,2 @@
-# Excel-Plotter
+# ExcelPlotter
+Excel plotter using python (streamlit)
